@@ -1,0 +1,1 @@
+Một ứng dụng mã nguồn mở giúp tự động nhận dạng và sao chép bất kì mã từ SMS cho bạn
